@@ -1,7 +1,8 @@
-# Twórczość Zbigniewa Herberta
+<h1> Twórczość Zbigniewa Herberta </h1>
 
-Przesłanie Pana Cogito
+<h2> Przesłanie Pana Cogito </h2>
 
+<blockquote>
 Idź dokąd poszli tamci do ciemnego kresu
 po złote runo nicości twoją ostatnią nagrodę
 
@@ -51,3 +52,4 @@ do grona twoich przodków: Gilgamesza Hektora Rolanda
 obrońców królestwa bez kresu i miasta popiołów
 
 Bądź wierny Idź
+<blockquote>
